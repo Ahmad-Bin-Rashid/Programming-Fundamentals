@@ -1,0 +1,2 @@
+Suzuki,WagonR,29,3500000
+Honda,City,25,3500000
